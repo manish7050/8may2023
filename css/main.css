@@ -1,17 +1,13 @@
 @font-face {
-    font-family: 'folks';
-    src: url("../fonts/folks.ttf"), format(truetype);
-}
-@font-face {
-    font-family: 'alfa';
-    src: url("../fonts/alfa.ttf"), format(truetype);
+    font-family: 'alex';
+    src: url("../fonts/alex.ttf"), format(truetype);
 }
 body {
     margin: 0;
     box-sizing: border-box;
     background-color: #dca6e7;
     color: aliceblue;
-    font-family: 'alfa', Arial, Helvetica, sans-serif;
+    font-family: 'alex', Arial, Helvetica, sans-serif;
 }
 main {
     width: 100%;
